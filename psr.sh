@@ -17,6 +17,7 @@ modprobe -i mwifiex_pcie
 
 sleep 1
 modprobe -r hid_multitouch
+#TODO:  may get fatal error to be handled on hid
 modprobe -r hid
 
 sleep 3

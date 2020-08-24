@@ -1,2 +1,2 @@
 # sleepysurface
-Scripts or linux on MS SurfacePro
+Scripts for your linux on MS SurfacePro
